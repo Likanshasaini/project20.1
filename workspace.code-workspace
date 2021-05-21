@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\tomAndJerryTemplate-master"
+		},
+		{
+			"path": "..\\..\\project21"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project21"
+	}
+}
